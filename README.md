@@ -1,33 +1,33 @@
-<h1 align="center">👋 Hey, I'm <span style="color:#4CAF50;">Tushar Yadav</span></h1>
-<h3 align="center">💻 MERN Stack Developer | 🎓 CSE Student @ DSEU Rohini</h3>
+<h1 align="center"> Hey, I'm <span style="color:#4CAF50;">Tushar Yadav</span></h1>
+<h3 align="center"> MERN Stack Developer |  CSE Student @ DSEU Rohini</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4CAF50&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+in+Making;Passionate+about+Problem+Solving;Always+Learning+New+Tech;Consistency+%2B+Curiosity+%3D+Growth" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4CAF50&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Passionate+about+Problem+Solving;Always+Learning+New+Tech" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🧑‍💻 About Me  
+##  About Me  
 
 <p align="center">
   <img src="https://media.tenor.com/hVRhFeDFW6oAAAAi/anime-wave.gif" width="200" align="right"/>
 </p>
 
-- 🎓 2nd-year B.Tech CSE @ **DSEU Rohini**  
-- 🚀 MERN Stack Developer in progress  
-- 💡 Passionate about **problem-solving** & **scalable apps**  
-- 📚 Strong in **OOPs (C++), DSA (C), Java**  
-- 🌱 Currently learning **React.js + Express.js**  
+-  2nd-year B.Tech CSE @ **DSEU Rohini**  
+-  MERN Stack Developer in progress  
+-  Passionate about **problem-solving** & **scalable apps**  
+-  Strong in **OOPs (C++), DSA (C), Java**  
+-  Currently learning **React.js**  
 
 ---
 
 ## ⚡ Tech Arsenal  
-
+<div align="center">
 <table>
 <tr>
 <td align="center" width="50%">
   
-### 🌐 Frontend  
+###  Frontend  
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3"/>
@@ -39,7 +39,7 @@
 </td>
 <td align="center" width="50%">
   
-### 🔧 Backend & DB  
+###  Backend & DB  
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="28"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" height="28"/>
@@ -53,7 +53,7 @@
 <tr>
 <td align="center" width="50%">
   
-### ⚙️ Languages  
+###  Languages  
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" title="C"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" title="C++"/>
@@ -63,7 +63,7 @@
 </td>
 <td align="center" width="50%">
   
-### 🛠 Tools  
+###  Tools  
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
   <img src="https://img.shields.io/badge/VS%20Code-0078D4?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="28"/>
@@ -73,10 +73,10 @@
 </td>
 </tr>
 </table>
-
+</div>
 ---
 
-## 🧪 Featured Projects  
+##  Featured Projects  
 
 <div align="center">
 
@@ -93,25 +93,18 @@
 
 ---
 
-## 📊 Contribution Graph  
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Tushar-bit01/Tushar-bit01/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
----
-
-## 🌐 Connect with Me  
+##  Connect with Me  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tushar-yadav-58349331b/">
     <img src="https://img.shields.io/badge/-Tushar%20Yadav-blue?logo=Linkedin&logoColor=white&style=for-the-badge"/>
   </a>
-  <a href="https://github.com/tusharyadav-cse">
+  <a href="https://github.com/Tushar-bit01">
     <img src="https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white&style=for-the-badge"/>
   </a>
 </p>
 
 ---
 
-<p align="center"><sub>⚡ Curiosity + Consistency = Growth | Tushar Yadav ⚡</sub></p>
+<p align="center"><sub>⚡ Tushar Yadav ⚡</sub></p>
