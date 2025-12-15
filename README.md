@@ -14,10 +14,10 @@
 </p>
 
 -  2nd-year B.Tech CSE @ **DSEU Rohini**  
--  MERN Stack Developer in progress  
+-  MERN Stack Developer  
 -  Passionate about **problem-solving** & **scalable apps**  
 -  Strong in **OOPs (C++), DSA (C), Java**  
--  Currently learning **React.js**  
+-  Currently building **Full stack projects**  
 
 ---
 
