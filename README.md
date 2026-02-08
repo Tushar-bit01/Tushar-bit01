@@ -27,19 +27,26 @@
 <tr>
 <td align="center" width="50%">
   
-###  Frontend  
+<table>
+<tr>
+<td align="center" width="50%">
+
+### Frontend  
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactrouter/reactrouter-original.svg" width="40" title="React Router"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" title="Tailwind CSS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" title="Bootstrap"/>
+  <img src="https://cdn.simpleicons.org/greensock/88CE02" width="40" title="GSAP"/>
 </p>
 
 </td>
 <td align="center" width="50%">
-  
-###  Backend & DB  
+
+### Backend & Databases  
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="28"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" height="28"/>
@@ -50,25 +57,33 @@
 
 </td>
 </tr>
+
 <tr>
 <td align="center" width="50%">
-  
-###  Languages  
+
+### Languages  
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" title="C"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" title="C++"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
 </p>
 
 </td>
 <td align="center" width="50%">
-  
-###  Tools  
+
+### Tools  
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
   <img src="https://img.shields.io/badge/VS%20Code-0078D4?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="28"/>
-  <img src="https://img.shields.io/badge/Hoppscotch-FF6C37?logo=Postman&logoColor=white&style=for-the-badge" height="28"/>
+  <img src="https://img.shields.io/badge/Hoppscotch-FF6C37?logo=Hoppscotch&logoColor=white&style=for-the-badge" height="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker"/>
 </p>
+
+</td>
+</tr>
+</table>
+
 
 </td>
 </tr>
@@ -82,12 +97,11 @@
 
 | Project | Tech Stack | Description |
 |---------|-----------|-------------|
-| 🎵 **Spotify Clone** | ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) | Replica of Spotify UI |
-| 📱 **Responsive Menu** | ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) | 3-dot responsive menu |
-| 💱 **Currency Converter** | ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) | INR ↔ USD converter |
-| 🎮 **Simon Says Game** | ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) | Memory-based game |
-| 📝 **Post Management System** | ![Node](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white) ![EJS](https://img.shields.io/badge/-EJS-8BC34A?logoColor=white) | CRUD with REST API |
-| 📸 **Instagram-like App** | ![Node](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white) ![EJS](https://img.shields.io/badge/-EJS-8BC34A?logoColor=white) | Users, profiles & posts |
+|  **StayQuest** | ![EJS](https://img.shields.io/badge/-EJS-000000?logo=ejs&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Node](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) | Full-stack property listing platform with auth, reviews, maps, and smart search |
+|  **ArcaneVerse** | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Tailwind](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white) ![GSAP](https://img.shields.io/badge/-GSAP-88CE02?logo=greensock&logoColor=black) | Animated React experience focused on smooth UI, transitions, and interactions |
+|  **Simon Says Game** | ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) | Memory-based game |
+|  **Post Management System** | ![Node](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white) ![EJS](https://img.shields.io/badge/-EJS-8BC34A?logoColor=white) | CRUD with REST API |
+|  **Instagram-like App** | ![Node](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white) ![EJS](https://img.shields.io/badge/-EJS-8BC34A?logoColor=white) | Users, profiles & posts |
 
 </div>
 
