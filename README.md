@@ -1,13 +1,18 @@
 <div align="center">
-  <h1 style="font-family: 'JetBrains Mono', monospace; font-weight: 800;">Tushar Yadav</h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=400&size=15&pause=800&color=5555500&center=true&vCenter=true&width=700&height=20&lines=Full+Stack+Engineer+%E2%80%94+MERN+%2B+Docker+%2B+TypeScript+%2B+3D+Web" alt="Role" />
+
+# Tushar Yadav
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=800&color=5555500&center=true&vCenter=true&width=500&height=45&lines=Full+Stack+Engineer;MERN+%2B+Docker+%2B+TypeScript;3D+Web+with+Three.js+%26+WebGL" alt="Role" />
+
+<br/>
+
+<img src="https://media.tenor.com/hVRhFeDFW6oAAAAi/anime-wave.gif" width="260"/>
+
 </div>
 
 <br/>
 
 ---
-
-<img src="https://media.tenor.com/hVRhFeDFW6oAAAAi/anime-wave.gif" width="240" align="right"/>
 
 ```ts
 const tushar: Developer = {
@@ -21,8 +26,6 @@ const tushar: Developer = {
 };
 ```
 
-<br clear="right"/>
-
 ---
 
 ## Tech Stack
@@ -30,19 +33,25 @@ const tushar: Developer = {
 <div align="center">
 
 **Frontend & 3D**
-
+<br/>
 <img src="https://skillicons.dev/icons?i=react,threejs,tailwind,typescript,javascript,html,css&theme=dark" />
 
-**Backend & Database**
+<br/><br/>
 
+**Backend & Database**
+<br/>
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,redis&theme=dark" />
 
-**DevOps & Tools**
+<br/><br/>
 
+**DevOps & Tools**
+<br/>
 <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman&theme=dark" />
 
-**Languages**
+<br/><br/>
 
+**Languages**
+<br/>
 <img src="https://skillicons.dev/icons?i=cpp,c,java,javascript,typescript,python&theme=dark" />
 
 </div>
@@ -53,7 +62,7 @@ const tushar: Developer = {
 
 ## Projects
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
@@ -61,7 +70,7 @@ const tushar: Developer = {
 
 Production solar rooftop simulator with real sun physics, live shadow raycasting per panel, GLSL shader clouds, 25-year financial modelling, and a full vendor/customer dashboard.
 
-`React` `Three.js` `WebGL` `GSAP` `GLSL` 
+`React` `Three.js` `WebGL` `GSAP` `GLSL`
 
 [Demo](https://res.cloudinary.com/dl8rikigy/video/upload/v1776867720/Kins_Introduction_Video_tdycsk.mp4) · [GitHub](https://github.com/Tushar-bit01/kins)
 
@@ -110,13 +119,13 @@ Node.js auth system containerized with Docker Compose across 3 services on one n
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Tushar-bit01&show_icons=true&hide_border=true&bg_color=0D1117&title_color=ffffff&icon_color=ffffff&text_color=888888&rank_icon=github" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tushar-bit01&layout=compact&hide_border=true&bg_color=0D1117&title_color=ffffff&text_color=888888" height="160"/>
+<img src="https://github-stats-extended.vercel.app/api?username=Tushar-bit01&show_icons=true&hide_border=true&bg_color=0D1117&title_color=ffffff&icon_color=ffffff&text_color=888888&rank_icon=github" width="49%" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Tushar-bit01&layout=compact&hide_border=true&bg_color=0D1117&title_color=ffffff&text_color=888888" width="49%" />
 
-</div>
+<br/>
 
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tushar-bit01&hide_border=true&background=0D1117&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=888888&dates=888888&currStreakNum=ffffff&sideNums=ffffff"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=Tushar-bit01&hide_border=true&background=0D1117&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=888888&dates=888888&currStreakNum=ffffff&sideNums=ffffff" width="80%" />
+
 </div>
 
 ---
