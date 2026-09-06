@@ -17,9 +17,9 @@
 ```ts
 const tushar: Developer = {
   college:    "B.Tech CSE @ DSEU Rohini (2024–2028)",
-  cgpa:       8.26,
+  cgpa:       8.24,
   stack:      ["MERN", "Three.js", "WebGL", "GSAP", "Docker", "TypeScript"],
-  founded:    ["Kins — Solar Tech", "CureFleet — Healthtech"],
+  openSource: "facebook/rocksdb — fixed a test-flakiness bug",
   range:      "REST APIs to GPU shaders — I build end to end",
   openTo:     "Internships · Remote · Early-stage startups",
   email:      "tushar10951@gmail.com"
@@ -66,13 +66,13 @@ const tushar: Developer = {
 <tr>
 <td width="50%" valign="top">
 
-**Kins — Solar Simulation Engine**
+**CipherNode — LSM-Tree Storage Engine**
 
-Production solar rooftop simulator with real sun physics, live shadow raycasting per panel, GLSL shader clouds, 25-year financial modelling, and a full vendor/customer dashboard.
+A Log-Structured Merge-tree storage engine built from scratch in C++. In-memory MemTable backed by hash maps, sequential disk flushing, SSTables with binary-search lookups, tombstones, and compaction.
 
-`React` `Three.js` `WebGL` `GSAP` `GLSL`
+`C++` `Systems Design`
 
-[Demo](https://res.cloudinary.com/dl8rikigy/video/upload/v1776867720/Kins_Introduction_Video_tdycsk.mp4) · [GitHub](https://github.com/Tushar-bit01/kins)
+[GitHub](https://github.com/Tushar-bit01/CipherNode)
 
 </td>
 <td width="50%" valign="top">
